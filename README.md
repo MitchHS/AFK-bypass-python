@@ -3,3 +3,4 @@
 
 
 # Dependency
+pip3 install pynput
